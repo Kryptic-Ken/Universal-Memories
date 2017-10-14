@@ -1,0 +1,2 @@
+# Universal-Memories
+This repository contains the files that that were used for my Object Oriented Design term project for the Spring 2017 semester. The goal of this project was to create a text based game in Swift that would encompass Objected Oriented Design patterns. The patterns I used in this game were Adapter, Decorator, Command, and Pattern. As for the story of the game, the player has to work regain his memories by traveling to different universe through portals.
